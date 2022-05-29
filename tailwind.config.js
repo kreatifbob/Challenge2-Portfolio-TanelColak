@@ -2,10 +2,10 @@ module.exports = {
     theme: {
     extend: {
       colors: {
-        'body': '#',
-        'selected-text': '#',
+        'body': '#F5F5F5',
+        'selected-text': 'A3A3FF',
         'theme': '#',
-        'nav': '#',
+        'nav': '#000000',
         'secondary': '#',
         'badge': '#',
         'input-border': '#',
