@@ -1,6 +1,5 @@
 module.exports = {
-  content: [],
-  theme: {
+    theme: {
     extend: {
       colors: {
         'body': '#',
