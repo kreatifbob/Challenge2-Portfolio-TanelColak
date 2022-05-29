@@ -4,7 +4,7 @@
   "description": "Personal Portflolio Page for Desktop Only\r ![image info](./Design%20Screenshot%20Draft.pdf)",
   "main": "tailwind.config.js",
   "scripts": {
-    "build": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx tailwindcss -i ./index.css -o ./tailwind.css -w"
   },
   "repository": {
     "type": "git",
