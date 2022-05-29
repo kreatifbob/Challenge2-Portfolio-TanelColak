@@ -1,0 +1,20 @@
+{
+  "name": "challenge2-portfolio-tanelcolak",
+  "version": "1.0.0",
+  "description": "Personal Portflolio Page for Desktop Only\r ![image info](./Design%20Screenshot%20Draft.pdf)",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kreatifbob/Challenge2-Portfolio-TanelColak.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kreatifbob/Challenge2-Portfolio-TanelColak/issues"
+  },
+  "homepage": "https://github.com/kreatifbob/Challenge2-Portfolio-TanelColak#readme"
+}
